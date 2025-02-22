@@ -19,7 +19,7 @@
 //  * - L298N Motor Driver Module  
 //  * - Ultrasonic Sensors (HC-SR04) ×3 (Front, Left, Right)  
 //  * - Servo Motor (SG90 or MG995 for better stability)  
-//  * - Two DC Motors (For wheels)  
+//  * - Four DC Motors (For wheels)  
 //  * - Power Supply (Li-Ion Battery)  
 //  * - Jumper Wires and Breadboard  
 //  * ---------------------------------------------------------------------------------  
