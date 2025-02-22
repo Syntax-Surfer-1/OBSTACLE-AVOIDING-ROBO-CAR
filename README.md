@@ -5,7 +5,7 @@
 ### Build Information 📅
 - **Version:** 1.0
 - **Release Date:** 01-22-2025
-- **Author:** Syntax-Surfer
+- **Author:** [Syntax-Surfer](https://github.com/Syntax-Surfer-1)
 
 ---
 
@@ -63,10 +63,10 @@ Install the following libraries in **PlatformIO** before uploading the code:
 - **GND Pin:** GND
 
 ### **L298N Motor Driver**:
-- **OUT-1:** GPIO 12
-- **OUT-2:** GPIO 14
-- **OUT-3:** GPIO 27
-- **OUT-4:** GPIO 26
+- **IN-1:** GPIO 12
+- **IN-2:** GPIO 14
+- **IN-3:** GPIO 27
+- **IN-4:** GPIO 26
 
 ---
 
