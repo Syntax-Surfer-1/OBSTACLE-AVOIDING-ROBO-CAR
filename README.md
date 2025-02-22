@@ -33,7 +33,7 @@ This project is an **autonomous robot** using the ESP32, three ultrasonic sensor
 ---
 
 ## Circuit Diagram 🖼️
-📌 ![Circuit Diagram 🖼️](circuit_image.png)
+![Circuit Diagram 🖼️](circuit_image.png)
 
 ---
 
