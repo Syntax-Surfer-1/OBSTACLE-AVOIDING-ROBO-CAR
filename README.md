@@ -26,7 +26,7 @@ This project is an **autonomous robot** using the ESP32, three ultrasonic sensor
 - **L298N Motor Driver Module**
 - **Ultrasonic Sensors (HC-SR04) ×3** (Front, Left, Right)
 - **Servo Motor (SG90 or MG995)**
-- **Two DC Motors** (For wheel movement)
+- **Four DC Motors** (For wheel movement)
 - **Power Supply (Li-Ion Battery)**
 - **Jumper Wires & Breadboard**
 
